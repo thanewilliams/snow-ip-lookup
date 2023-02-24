@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_976576_iplookup.admin" name="x_976576_iplookup.admin">189445622f702110872f5d492799b625</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 18:16:51</sys_created_on>
+        <sys_id>d09445622f702110872f5d492799b627</sys_id>
+        <sys_name>189445622f702110872f5d492799b625</sys_name>
+        <sys_package display_value="IPLookup" source="x_976576_iplookup">0c9445622f702110872f5d492799b61e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">0c9445622f702110872f5d492799b61e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d09445622f702110872f5d492799b627</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
